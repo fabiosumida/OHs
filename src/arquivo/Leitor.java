@@ -88,7 +88,7 @@ public class Leitor {
                                 System.out.println("Saiu em outro dia");
                             }
                         } else {
-                            System.out.println("Ignorar entrada");
+                            System.out.println("Ignorar incorreta");
                         }
                     } 
                 }
