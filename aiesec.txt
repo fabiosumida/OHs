@@ -83,6 +83,7 @@ Elis Sabbag	Escritório	11/09/2019 19:10:42
 Elis Sabbag	Escritório	11/09/2019 19:10:42
 Tiago Camargo Maciel Dos Santos	Escritório	11/09/2019 19:11:00
 Nícolas Gonçalves	Escritório	11/09/2019 19:23:01
+Nícolas Gonçalves	Externa	11/09/2019 19:23:08
 Genaro Zamora	Escritório	11/09/2019 19:23:31
 Francesca Panhoni	Escritório	11/09/2019 19:26:33
 Elis Sabbag	Escritório	11/09/2019 19:35:29
@@ -197,3 +198,13 @@ Helena Bracarense	Externa	13/09/2019 17:51:46
 Juliana Menezes	Externa	13/09/2019 18:55:16
 Elis Sabbag	Escritório	13/09/2019 19:26:03
 Elis Sabbag	Escritório	13/09/2019 19:26:03
+Elis Sabbag	Externa	13/09/2019 21:35:28
+Elis Sabbag	Externa	13/09/2019 21:35:28
+Iara Arantes Capassi	Escritório	14/09/2019 08:35:52
+Georgia Rayssa Lima	Escritório	14/09/2019 09:39:14
+Eloá Rodrigues	Escritório	14/09/2019 09:54:31
+Georgia Rayssa Lima	Externa	14/09/2019 12:02:20
+Iara Arantes Capassi	Externa	14/09/2019 12:08:45
+Iara Arantes Capassi	Escritório	14/09/2019 12:16:30
+Eloá Rodrigues	Externa	14/09/2019 12:18:40
+Iara Arantes Capassi	Externa	14/09/2019 16:21:46
